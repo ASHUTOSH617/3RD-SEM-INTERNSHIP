@@ -1,0 +1,70 @@
+   ASSIGNMENT-Homework: STRING SLICER
+        1.  What would be the output of the following code?
+            s = 'thinktank'
+            print(s[5:5])
+            
+          ans:-  C) Blank Output
+       
+
+        2.  What would be the output of the following code?
+            s = 'follow'
+            print(s[3:8])
+                     
+           ans:-  B) low
+           
+        3.  What would be the output of the following code?
+            s = 'medium'
+            print(s[-4:4])
+          
+            ans:-  A) di
+                   
+       4.  Fill the blank with the code that would give the following     	   output.
+            s = 'pythonista'
+            print(__________)
+            Output:
+            inoh
+          
+           ans:- D) s[6:2:-1]
+
+        5.  Fill the blank with the code that would give the following  	    output.
+            s = 'program'
+            print(__________)
+            Output:
+            rga
+           
+            ans :- A) s[-6:-1:2]
+          
+        6.  What would be the output of the following code?
+            s = 'coder'
+            print(s[::0])
+          
+          ans:-  C) ValueError
+            
+        7.  What would be the output of the following code?
+            s = 'doubled'
+            print(s[1:6][1:3])
+                    
+          ans:-  B) ub
+                
+        8.  Fill the blank with the code that would give the following    	    output.
+            s = 'question'
+            print(__________)
+            Output:
+            nisu
+            
+           ans:- C) s[-1::-2]
+           
+        9.  Fill the blank with the code that would give the following 	  	   output.
+            s = 'subscribe'
+            print(__________)
+            Output:
+            Blank Output
+           
+           ans:- D) s[-3:-6:2]
+
+        10. What would be the output of the following code?
+            s = 'completed'
+            print(s[2:5:3])
+          
+           ans:-  A) m
+           
